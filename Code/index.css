@@ -49,6 +49,10 @@
     border-width: 3px;
     border-color: var(--Green);
 }
+.button1:hover{
+    color: var(--Green);
+    cursor: pointer;
+}
 .hero-div{
     width: 735px;
     /* height: 260px; */
@@ -80,6 +84,11 @@
     border: solid 1px var(--Green);
     color: var(--Purple);
     font-size: 18px;
+}
+.button2:hover{
+    background-color: var(--Purple);
+    cursor: pointer;
+    color: var(--Green);
 }
 .hero img{
     width: 667px;
